@@ -1,4 +1,4 @@
-````markdown
+
 # 🚗 CarMatch AI
 
 CarMatch AI is an AI-powered car comparison tool that helps users decide between two cars—either by entering full specifications or just the model and year. The app uses OpenAI to generate a verdict and saves data for future reference and improvement.
@@ -32,7 +32,7 @@ CarMatch AI is an AI-powered car comparison tool that helps users decide between
 git clone https://github.com/your-username/car-match-ai.git
 cd car-match-ai
 ```
-````
+
 
 ### 2. Setup Client
 
