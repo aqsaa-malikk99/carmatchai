@@ -1,0 +1,43 @@
+/* src/styles/CarSpecsForm.css */
+
+.specs-fieldset {
+    @apply mb-8 p-6 bg-gray-700 rounded-lg shadow-inner border border-gray-600;
+}
+
+.fieldset-legend {
+    @apply text-2xl font-bold text-yellow-300 mb-4 px-3 py-1 bg-gray-900 rounded-md -ml-3 -mt-3 shadow-md;
+}
+
+.section-heading {
+    @apply text-xl font-semibold text-purple-300 mb-3;
+}
+
+.input-group {
+    @apply mb-4;
+    /* Spacing between input rows */
+}
+
+.input-label {
+    @apply block text-gray-300 text-sm font-medium mb-1;
+}
+
+.form-input,
+.form-select {
+    @apply w-full p-2 bg-gray-600 text-white rounded-md border border-gray-500 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent;
+}
+
+.radio-group-label {
+    @apply inline-flex items-center text-gray-300 mr-4;
+}
+
+.radio-input {
+    @apply mr-1 h-4 w-4 text-purple-500 bg-gray-600 border-gray-500 focus:ring-purple-500;
+}
+
+.checkbox-label {
+    @apply inline-flex items-center text-gray-300;
+}
+
+.checkbox-input {
+    @apply mr-2 h-4 w-4 text-purple-500 bg-gray-600 border-gray-500 rounded focus:ring-purple-500;
+}
