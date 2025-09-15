@@ -131,11 +131,9 @@ Response Example:
 
 ## 🖼️ UI Screenshots
 
-> _(Coming soon)_ Add images of:
+> _(Coming soon)_ :
 
-- Home screen
-- Spec form
-- Verdict results page
+
 
 ---
 
@@ -162,9 +160,8 @@ Feel free to fork and submit PRs. Suggestions welcome!
 
 ## 🧠 Author
 
-Made by [Your Name](https://github.com/your-username)
+Made by Aqsa Ali Malik(https://github.com/aqsaa-malikk99)
 
 ```
 
-Let me know if you want it customized with your GitHub username, project URL, or want a `car-match-ai` logo at the top!
 ```
